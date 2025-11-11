@@ -198,6 +198,42 @@
 		}
 	});
 
+	
+document.addEventListener('DOMContentLoaded', function() {
+  let currentPath = window.location.pathname.toLowerCase();
+
+  // Handle root as index.html
+  if (currentPath === '/' || currentPath === '') {
+    currentPath = '/index.html';
+  }
+
+  const navLinks = document.querySelectorAll('.main-menu .navbar-nav .nav-item .nav-link');
+
+  navLinks.forEach(link => {
+    const href = link.getAttribute('href').toLowerCase();
+
+    // Convert relative href to a comparable pattern
+    const hrefName = href.replace('.html', '').replace('/', '');
+
+    // Match logic:
+    // 1. Exact filename match (index.html)
+    // 2. Path starts with that section (e.g. /services/, /solutions/)
+    const isActive =
+      currentPath.endsWith(href) ||
+      currentPath.includes(`/${hrefName}/`);
+
+    if (isActive) {
+      link.style.color = '#5987ed';
+      link.style.fontWeight = '600';
+    } else {
+      link.style.color = '';
+      link.style.fontWeight = '';
+    }
+  });
+});
+
+
+
 	function submitForm(){
 		/* Initiate Variables With Form Content*/
 		var fname = $("#fname").val();
