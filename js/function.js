@@ -165,14 +165,7 @@
     );
   }
 
-   const walk = (node) => {
-    // Loop through child nodes
-    const walker = document.createTreeWalker(node, NodeFilter.SHOW_TEXT, null, false);
-    let currentNode;
-    while ((currentNode = walker.nextNode())) {
-      currentNode.nodeValue = currentNode.nodeValue.replace(/\bSchedule\s+A\s+Meeting\b/g, 'Schedule a Meeting');
-    }
-  };
+  
 
   // Run safely across the page
   walk(document.body);
