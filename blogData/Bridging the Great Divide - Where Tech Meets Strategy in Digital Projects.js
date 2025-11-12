@@ -115,9 +115,9 @@ export const blogPost = {
     },
     {
       type: "text",
-      heading: "Real-World Example: How Ozole Digital Does It",
+      heading: "Real-World Example: How Neuralence SolutionsDoes It",
       paragraphs: [
-        "At Ozole Digital, we ditch silos from day one. Our cross-functional teams understand your business model, explore user needs, choose scalable tech, and architect for long-term growth."
+        "At Neuralence Digital, we ditch silos from day one. Our cross-functional teams understand your business model, explore user needs, choose scalable tech, and architect for long-term growth."
       ]
     },
     {
@@ -151,9 +151,9 @@ export const blogPost = {
     },
     {
       type: "text",
-      heading: "Partner With Ozole Digital",
+      heading: "Partner With Neuralence Digital",
       paragraphs: [
-        "Looking to bring harmony to your next digital product? Let Ozole Digital help you design with strategy and build with purpose. Book a free consultation today at Ozole’s website and let’s create something extraordinary together."
+        "Looking to bring harmony to your next digital product? Let Neuralence Solutionshelp you design with strategy and build with purpose. Book a free consultation today at Neuralence’s website and let’s create something extraordinary together."
       ]
     },
     {

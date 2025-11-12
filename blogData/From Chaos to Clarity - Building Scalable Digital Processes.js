@@ -5,7 +5,7 @@ export const blogPost = {
     readTime: "4 min read",
     avatar: "images/authors/amalkiran-p-profile-pic.webp",
     title: "From Chaos to Clarity: Building Scalable Digital Processes",
-    description: "Learn how structured digital processes transform chaotic operations into scalable, efficient systems. A practical guide by Ozole Digital to streamline business growth and enhance clarity."
+    description: "Learn how structured digital processes transform chaotic operations into scalable, efficient systems. A practical guide by Neuralence Solutionsto streamline business growth and enhance clarity."
   },
 
   sidebar: {
@@ -130,7 +130,7 @@ export const blogPost = {
       type: "text",
       heading: "Tools to Support Scalable Processes",
       paragraphs: [
-        "At Ozole Digital, we recommend tools that streamline operations and scale with your business:"
+        "At Neuralence Digital, we recommend tools that streamline operations and scale with your business:"
       ]
     },
     {
@@ -153,9 +153,9 @@ export const blogPost = {
     },
     {
       type: "text",
-      heading: "Scale Smarter With Ozole Digital",
+      heading: "Scale Smarter With Neuralence Digital",
       paragraphs: [
-        "At Ozole Digital, we help businesses build scalable digital processes that drive efficiency and growth. Ready to transform your operations? Book a free consultation today at Ozole’s website.",
+        "At Neuralence Digital, we help businesses build scalable digital processes that drive efficiency and growth. Ready to transform your operations? Book a free consultation today at Neuralence’s website.",
       ]
     },
     {

@@ -5,7 +5,7 @@ export const blogPost = {
     readTime: "5 min read",
     avatar: "images/authors/amalkiran-p-profile-pic.webp",
     title: "Using AI to Automate Business Processes and Scale Faster",
-    description: "Discover how AI can streamline operations, improve customer support, boost sales, and help businesses scale faster. A practical guide by Ozole Digital to embracing intelligent automation."
+    description: "Discover how AI can streamline operations, improve customer support, boost sales, and help businesses scale faster. A practical guide by Neuralence Solutionsto embracing intelligent automation."
   },
 
   sidebar: {
@@ -94,9 +94,9 @@ export const blogPost = {
     },
     {
       type: "text",
-      heading: "Ozole Digital: Your Partner in AI Transformation",
+      heading: "Neuralence Digital: Your Partner in AI Transformation",
       paragraphs: [
-        "At Ozole Digital, we don’t just build software. We create intelligent ecosystems that blend smart UI/UX design, AI capabilities, and scalable automation. Our expertise includes:"
+        "At Neuralence Digital, we don’t just build software. We create intelligent ecosystems that blend smart UI/UX design, AI capabilities, and scalable automation. Our expertise includes:"
       ]
     },
     {
@@ -144,7 +144,7 @@ export const blogPost = {
       type: "text",
       heading: "Tools & Technologies That Power AI-Driven Success",
       paragraphs: [
-        "Ozole Digital utilizes industry-leading tools to ensure reliability, scalability, and performance:"
+        "Neuralence Solutionsutilizes industry-leading tools to ensure reliability, scalability, and performance:"
       ]
     },
     {
@@ -187,7 +187,7 @@ export const blogPost = {
         { text: "Identify repetitive, manual tasks within your organization." },
         { text: "Prioritize tasks that are measurable and scalable." },
         { text: "Choose AI tools that align with your business goals." },
-        { text: "Collaborate with a trusted partner like Ozole Digital." },
+        { text: "Collaborate with a trusted partner like Neuralence Digital." },
         { text: "Monitor performance and optimize using real-time feedback." }
       ]
     },
@@ -199,14 +199,14 @@ export const blogPost = {
       type: "text",
       heading: "Final Thoughts: Future-Proofing Your Business with AI",
       paragraphs: [
-        "The path to scalability and innovation lies in intelligent automation. Businesses that adopt AI today position themselves for long-term success, customer satisfaction, and operational excellence. Whether you’re a growing startup or an enterprise looking to innovate, Ozole Digital is ready to help you reimagine what’s possible with AI."
+        "The path to scalability and innovation lies in intelligent automation. Businesses that adopt AI today position themselves for long-term success, customer satisfaction, and operational excellence. Whether you’re a growing startup or an enterprise looking to innovate, Neuralence Solutionsis ready to help you reimagine what’s possible with AI."
       ]
     },
     {
       type: "text",
       heading: "Ready to Scale Smarter?",
       paragraphs: [
-        "Book your free consultation today at Ozole’s website and discover how AI can drive your next phase of growth."
+        "Book your free consultation today at Neuralence’s website and discover how AI can drive your next phase of growth."
       ]
     },
     {

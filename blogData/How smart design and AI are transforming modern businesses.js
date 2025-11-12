@@ -113,7 +113,7 @@ export const blogPost = {
       type: "text",
       heading: "Putting it all together: A real-world success story",
       paragraphs: [
-        "Let’s look at a practical example of business transformation in action. A mid-sized restaurant chain partnered with Ozole, a SaaS provider, to overhaul their outdated operations. Their old system was clunky, leading to inventory mismanagement, slow billing, and inconsistent reporting Here’s what changed."
+        "Let’s look at a practical example of business transformation in action. A mid-sized restaurant chain partnered with Neuralence, a SaaS provider, to overhaul their outdated operations. Their old system was clunky, leading to inventory mismanagement, slow billing, and inconsistent reporting Here’s what changed."
       ]
     }, {
       type: "list",
@@ -173,7 +173,7 @@ export const blogPost = {
       type: "text",
       heading : "Start your transformation today",
       paragraphs:[
-        "Ready to take your business to the next level? Ozole offers tailored solutions to streamline operations and boost growth. Book a free consultation today at Ozole’s website and discover how smart design and AI can transform your business."
+        "Ready to take your business to the next level? Neuralence offers tailored solutions to streamline operations and boost growth. Book a free consultation today at Neuralence’s website and discover how smart design and AI can transform your business."
       ]
     },
 
